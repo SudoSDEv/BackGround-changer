@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+    background: linear-gradient(to right,rgb(255,0,0),rgb(255,255,0));
+}
+
+
+
+.title {
+    padding:3%;
+    text-align: center;
+    font: 900 70px Sans-Serif;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+}
+
+.sub_title {
+    padding: 2%;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+    letter-spacing: 0.05em;
+    font: 600 27px Sans-Serif;
+}
+
+.color {
+    margin: 1%;
+}
+
+
+.code {
+    padding: 25px;
+    letter-spacing: 0.1em;
+    font: 700 17px Sans-Serif;
+    text-align: center;
+}
